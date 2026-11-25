@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T16:38:21.918Z",
+  "updatedAt": "2026-11-25T16:38:31.379Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "",
@@ -125,10 +125,10 @@
       "placement": "sidebar_top",
       "pageTarget": "feed_only",
       "status": "active",
-      "priority": 99,
+      "priority": 90,
       "createdBy": "",
       "createdAtMs": 1795624374104,
-      "updatedAtMs": 1795624701917
+      "updatedAtMs": 1795624711379
     }
   ],
   "adPlacements": {
@@ -190,10 +190,10 @@
         "placement": "sidebar_top",
         "pageTarget": "feed_only",
         "status": "active",
-        "priority": 99,
+        "priority": 90,
         "createdBy": "",
         "createdAtMs": 1795624374104,
-        "updatedAtMs": 1795624701917
+        "updatedAtMs": 1795624711379
       }
     ],
     "story_inline": [
