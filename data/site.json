@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T16:38:31.379Z",
+  "updatedAt": "2026-11-25T16:39:52.641Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "",
@@ -27,8 +27,8 @@
       "status": "active",
       "priority": 100,
       "createdBy": "",
-      "createdAtMs": 1795624680983,
-      "updatedAtMs": 1795624680983
+      "createdAtMs": 1795624684363,
+      "updatedAtMs": 1795624684363
     },
     {
       "id": "ad_1795624582995_vlabdj",
@@ -109,26 +109,6 @@
       "createdBy": "",
       "createdAtMs": 1795622032068,
       "updatedAtMs": 1795622032068
-    },
-    {
-      "id": "ad_1795624370297_5bbjo6",
-      "adType": "adskeeper",
-      "title": "AdsKeeper Native Widget #2134190",
-      "sponsorName": "AdsKeeper",
-      "description": "Native content recommendations served by adskeeper.com.",
-      "ctaText": "Sponsored",
-      "targetUrl": "https://www.adskeeper.com",
-      "imageUrl": "",
-      "adskeeperSiteId": "1122864",
-      "adskeeperWidgetId": "2134190",
-      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1122864.js",
-      "placement": "sidebar_top",
-      "pageTarget": "feed_only",
-      "status": "active",
-      "priority": 90,
-      "createdBy": "",
-      "createdAtMs": 1795624374104,
-      "updatedAtMs": 1795624711379
     }
   ],
   "adPlacements": {
@@ -150,8 +130,8 @@
         "status": "active",
         "priority": 100,
         "createdBy": "",
-        "createdAtMs": 1795624680983,
-        "updatedAtMs": 1795624680983
+        "createdAtMs": 1795624684363,
+        "updatedAtMs": 1795624684363
       }
     ],
     "sidebar_top": [
@@ -174,26 +154,6 @@
         "createdBy": "",
         "createdAtMs": 1795624586779,
         "updatedAtMs": 1795624586779
-      },
-      {
-        "id": "ad_1795624370297_5bbjo6",
-        "adType": "adskeeper",
-        "title": "AdsKeeper Native Widget #2134190",
-        "sponsorName": "AdsKeeper",
-        "description": "Native content recommendations served by adskeeper.com.",
-        "ctaText": "Sponsored",
-        "targetUrl": "https://www.adskeeper.com",
-        "imageUrl": "",
-        "adskeeperSiteId": "1122864",
-        "adskeeperWidgetId": "2134190",
-        "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1122864.js",
-        "placement": "sidebar_top",
-        "pageTarget": "feed_only",
-        "status": "active",
-        "priority": 90,
-        "createdBy": "",
-        "createdAtMs": 1795624374104,
-        "updatedAtMs": 1795624711379
       }
     ],
     "story_inline": [
