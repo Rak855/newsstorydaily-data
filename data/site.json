@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T16:30:49.915Z",
+  "updatedAt": "2026-11-25T16:32:50.705Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "",
@@ -10,6 +10,26 @@
     "deletedBuiltInIds": []
   },
   "sponsorAds": [
+    {
+      "id": "ad_1795624370297_5bbjo6",
+      "adType": "adskeeper",
+      "title": "AdsKeeper Native Widget #2134190",
+      "sponsorName": "AdsKeeper",
+      "description": "Native content recommendations served by adskeeper.com.",
+      "ctaText": "Sponsored",
+      "targetUrl": "https://www.adskeeper.com",
+      "imageUrl": "",
+      "adskeeperSiteId": "1122864",
+      "adskeeperWidgetId": "2134190",
+      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1122864.js",
+      "placement": "sidebar_top",
+      "pageTarget": "feed_only",
+      "status": "active",
+      "priority": 100,
+      "createdBy": "",
+      "createdAtMs": 1795624370705,
+      "updatedAtMs": 1795624370705
+    },
     {
       "id": "ad_1795622028319_rm5109",
       "adType": "adskeeper",
@@ -27,11 +47,33 @@
       "status": "active",
       "priority": 100,
       "createdBy": "",
-      "createdAtMs": 0,
-      "updatedAtMs": 0
+      "createdAtMs": 1795622032068,
+      "updatedAtMs": 1795622032068
     }
   ],
   "adPlacements": {
+    "sidebar_top": [
+      {
+        "id": "ad_1795624370297_5bbjo6",
+        "adType": "adskeeper",
+        "title": "AdsKeeper Native Widget #2134190",
+        "sponsorName": "AdsKeeper",
+        "description": "Native content recommendations served by adskeeper.com.",
+        "ctaText": "Sponsored",
+        "targetUrl": "https://www.adskeeper.com",
+        "imageUrl": "",
+        "adskeeperSiteId": "1122864",
+        "adskeeperWidgetId": "2134190",
+        "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1122864.js",
+        "placement": "sidebar_top",
+        "pageTarget": "feed_only",
+        "status": "active",
+        "priority": 100,
+        "createdBy": "",
+        "createdAtMs": 1795624370705,
+        "updatedAtMs": 1795624370705
+      }
+    ],
     "header_leaderboard": [
       {
         "id": "ad_1795622028319_rm5109",
@@ -50,13 +92,9 @@
         "status": "active",
         "priority": 100,
         "createdBy": "",
-        "createdAtMs": 0,
-        "updatedAtMs": 0
+        "createdAtMs": 1795622032068,
+        "updatedAtMs": 1795622032068
       }
     ]
-  },
-  "categoryCounts": {
-    "Full Story": 10,
-    "Horoscope": 5
   }
 }
