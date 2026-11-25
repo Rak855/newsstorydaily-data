@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T16:36:23.399Z",
+  "updatedAt": "2026-11-25T16:38:00.983Z",
   "siteContent": {
     "adsEnabled": true,
     "globalAdsKeeperSiteId": "",
@@ -10,6 +10,26 @@
     "deletedBuiltInIds": []
   },
   "sponsorAds": [
+    {
+      "id": "ad_1795624680687_1y29ge",
+      "adType": "adskeeper",
+      "title": "AdsKeeper Native Widget #2134194",
+      "sponsorName": "AdsKeeper",
+      "description": "Native content recommendations served by adskeeper.com.",
+      "ctaText": "Sponsored",
+      "targetUrl": "https://www.adskeeper.com",
+      "imageUrl": "",
+      "adskeeperSiteId": "1122864",
+      "adskeeperWidgetId": "2134194",
+      "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1122864.js",
+      "placement": "story_below",
+      "pageTarget": "story_only",
+      "status": "active",
+      "priority": 100,
+      "createdBy": "",
+      "createdAtMs": 1795624680983,
+      "updatedAtMs": 1795624680983
+    },
     {
       "id": "ad_1795624582995_vlabdj",
       "adType": "adskeeper",
@@ -27,8 +47,8 @@
       "status": "active",
       "priority": 100,
       "createdBy": "",
-      "createdAtMs": 1795624583399,
-      "updatedAtMs": 1795624583399
+      "createdAtMs": 1795624586779,
+      "updatedAtMs": 1795624586779
     },
     {
       "id": "ad_1795624485015_706efk",
@@ -47,8 +67,8 @@
       "status": "active",
       "priority": 100,
       "createdBy": "",
-      "createdAtMs": 1795624485301,
-      "updatedAtMs": 1795624485301
+      "createdAtMs": 1795624488702,
+      "updatedAtMs": 1795624488702
     },
     {
       "id": "ad_1795624419623_jc1q2k",
@@ -67,8 +87,8 @@
       "status": "active",
       "priority": 100,
       "createdBy": "",
-      "createdAtMs": 1795624419761,
-      "updatedAtMs": 1795624419761
+      "createdAtMs": 1795624423134,
+      "updatedAtMs": 1795624423134
     },
     {
       "id": "ad_1795624370297_5bbjo6",
@@ -87,8 +107,8 @@
       "status": "active",
       "priority": 100,
       "createdBy": "",
-      "createdAtMs": 1795624370705,
-      "updatedAtMs": 1795624370705
+      "createdAtMs": 1795624374104,
+      "updatedAtMs": 1795624374104
     },
     {
       "id": "ad_1795622028319_rm5109",
@@ -112,6 +132,28 @@
     }
   ],
   "adPlacements": {
+    "story_below": [
+      {
+        "id": "ad_1795624680687_1y29ge",
+        "adType": "adskeeper",
+        "title": "AdsKeeper Native Widget #2134194",
+        "sponsorName": "AdsKeeper",
+        "description": "Native content recommendations served by adskeeper.com.",
+        "ctaText": "Sponsored",
+        "targetUrl": "https://www.adskeeper.com",
+        "imageUrl": "",
+        "adskeeperSiteId": "1122864",
+        "adskeeperWidgetId": "2134194",
+        "adskeeperScriptUrl": "https://jsc.adskeeper.com/site/1122864.js",
+        "placement": "story_below",
+        "pageTarget": "story_only",
+        "status": "active",
+        "priority": 100,
+        "createdBy": "",
+        "createdAtMs": 1795624680983,
+        "updatedAtMs": 1795624680983
+      }
+    ],
     "sidebar_top": [
       {
         "id": "ad_1795624582995_vlabdj",
@@ -130,8 +172,8 @@
         "status": "active",
         "priority": 100,
         "createdBy": "",
-        "createdAtMs": 1795624583399,
-        "updatedAtMs": 1795624583399
+        "createdAtMs": 1795624586779,
+        "updatedAtMs": 1795624586779
       },
       {
         "id": "ad_1795624370297_5bbjo6",
@@ -150,8 +192,8 @@
         "status": "active",
         "priority": 100,
         "createdBy": "",
-        "createdAtMs": 1795624370705,
-        "updatedAtMs": 1795624370705
+        "createdAtMs": 1795624374104,
+        "updatedAtMs": 1795624374104
       }
     ],
     "story_inline": [
@@ -172,8 +214,8 @@
         "status": "active",
         "priority": 100,
         "createdBy": "",
-        "createdAtMs": 1795624485301,
-        "updatedAtMs": 1795624485301
+        "createdAtMs": 1795624488702,
+        "updatedAtMs": 1795624488702
       }
     ],
     "sidebar_bottom": [
@@ -194,8 +236,8 @@
         "status": "active",
         "priority": 100,
         "createdBy": "",
-        "createdAtMs": 1795624419761,
-        "updatedAtMs": 1795624419761
+        "createdAtMs": 1795624423134,
+        "updatedAtMs": 1795624423134
       }
     ],
     "header_leaderboard": [
